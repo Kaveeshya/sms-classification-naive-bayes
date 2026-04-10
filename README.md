@@ -85,3 +85,31 @@ The workflow combines Natural Language Processing (NLP) techniques with statisti
 ---
 
 ## 📎 Project Structure
+
+```
+sms-classification-naive-bayes/
+│
+├── spam_classification.R
+├── README.md
+├── confusion_matrix.png
+├── spam_wordcloud.png
+```
+
+
+
+---
+
+## 🧠 Key Learnings
+- Text preprocessing and feature engineering for NLP  
+- Probabilistic modeling using Naive Bayes  
+- Hyperparameter tuning with cross-validation  
+- Understanding trade-offs between **precision and recall**  
+
+---
+
+## 🚀 Future Improvements
+- Try TF-IDF instead of binary features  
+- Test other models (Logistic Regression, SVM)  
+- Improve feature selection techniques  
+
+---
