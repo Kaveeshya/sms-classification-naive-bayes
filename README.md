@@ -66,6 +66,13 @@ The workflow combines Natural Language Processing (NLP) techniques with statisti
 - These patterns support probabilistic classification using Naive Bayes  
 
 ---
+## 📸 Visual Results
+
+### 📊 Confusion Matrix
+![Confusion Matrix](prediction3.png)
+
+### ☁️ Spam Word Cloud
+![Word Cloud](spam_cloud.png)
 
 ## 🛠️ Tools & Technologies
 - R  
