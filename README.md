@@ -69,10 +69,10 @@ The workflow combines Natural Language Processing (NLP) techniques with statisti
 ## 📸 Visual Results
 
 ### 📊 Confusion Matrix
-![Confusion Matrix](prediction3.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### ☁️ Spam Word Cloud
-![Word Cloud](spam_cloud.png)
+![Word Cloud](spam_wordcloud.png)
 
 ## 🛠️ Tools & Technologies
 - R  
